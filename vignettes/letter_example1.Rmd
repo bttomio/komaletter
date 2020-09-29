@@ -21,7 +21,7 @@ place: Musterstadt
 subject: Some Customizations
 opening: Hi Robert,
 closing: Cheers,
-signature: "\\includegraphics{signature}"
+signature: "\\includegraphics[width=2cm, height=1.5cm]{signature}"
 signature-before: "0.5\\baselineskip"
 cc: Dirk Eddelbuettel
 ps: P.S. Beware of the copy editor!
